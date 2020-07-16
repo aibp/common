@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[65],{781:function(e,n){e.exports={content:["article"],meta:{title:"Slider",cols:1,filename:"docs/antd-comp/Slider/index.md"},toc:["ul"]}}}]);

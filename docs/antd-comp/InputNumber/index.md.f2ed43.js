@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[56],{763:function(n,e){n.exports={content:["article"],meta:{title:"InputNumber",filename:"docs/antd-comp/InputNumber/index.md"},toc:["ul"]}}}]);

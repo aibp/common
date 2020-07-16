@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[72],{795:function(o,t){o.exports={content:["article"],meta:{title:"Tooltip",filename:"docs/antd-comp/Tooltip/index.md"},toc:["ul"]}}}]);

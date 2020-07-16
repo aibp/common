@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[66],{783:function(n,o){n.exports={content:["article"],meta:{title:"Spin",cols:1,filename:"docs/antd-comp/Spin/index.md"},toc:["ul"]}}}]);

@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[58],{767:function(o,n){o.exports={content:["article"],meta:{title:"Modal",filename:"docs/antd-comp/Modal/index.md"},toc:["ul"]}}}]);

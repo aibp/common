@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[60],{771:function(n,o){n.exports={content:["article"],meta:{title:"Pagination",cols:1,filename:"docs/antd-comp/Pagination/index.md"},toc:["ul"]}}}]);

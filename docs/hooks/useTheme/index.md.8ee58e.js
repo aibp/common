@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[89],{811:function(e,o){e.exports={content:["article"],meta:{title:"useTheme",filename:"docs/hooks/useTheme/index.md"},toc:["ul"]}}}]);

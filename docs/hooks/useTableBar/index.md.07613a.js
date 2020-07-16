@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[88],{809:function(e,o){e.exports={content:["article"],meta:{title:"useTableBar",filename:"docs/hooks/useTableBar/index.md"},toc:["ul"]}}}]);
