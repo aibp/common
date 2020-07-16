@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[84],{801:function(e,o){e.exports={content:["article"],meta:{title:"useChart",filename:"docs/hooks/useChart/index.md"},toc:["ul"]}}}]);

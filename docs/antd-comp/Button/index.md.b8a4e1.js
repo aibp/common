@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[46],{743:function(t,n){t.exports={content:["article"],meta:{title:"Button",filename:"docs/antd-comp/Button/index.md"},toc:["ul"]}}}]);

@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[87],{807:function(e,o){e.exports={content:["article"],meta:{title:"useTable",cols:1,filename:"docs/hooks/useTable/index.md"},toc:["ul"]}}}]);

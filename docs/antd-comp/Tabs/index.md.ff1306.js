@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[70],{791:function(n,o){n.exports={content:["article"],meta:{title:"Tabs",cols:1,filename:"docs/antd-comp/Tabs/index.md"},toc:["ul"]}}}]);

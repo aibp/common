@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[45],{741:function(e,n){e.exports={content:["article"],meta:{title:"Badge",filename:"docs/antd-comp/Badge/index.md"},toc:["ul"]}}}]);

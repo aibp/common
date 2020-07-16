@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[75],{723:function(t,o){t.exports={content:["article"],meta:{title:"BottomSubmit",filename:"docs/components/BottomSubmit/index.md"},toc:["ul"]}}}]);
